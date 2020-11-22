@@ -16,3 +16,6 @@
 [submodule "ssb-keyfile"]
 	path = ssb-keyfile
 	url = git@github.com:sunrise-choir/ssb-keyfile.git
+[submodule "ssb-publish"]
+	path = ssb-publish
+	url = git@github.com:sunrise-choir/ssb-publish.git
